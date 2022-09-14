@@ -24,7 +24,7 @@
          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
          "name" : "Ốc Cần Giờ",
          "opening_hours" : {
-            "open_now" : true
+            "open_now" : false
          },
          "photos" : [
             {
